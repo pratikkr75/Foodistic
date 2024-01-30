@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "mongodb+srv://pratikkr75:pratik160@cluster0.zs9ekpg.mongodb.net/foodistic?retryWrites=true&w=majority";
+const mongoURI = "paste your mongodb database URL here";
 
 async function mongoDB() {
     try {
